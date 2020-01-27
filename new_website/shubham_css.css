@@ -1,0 +1,183 @@
+.intro1{
+    text-align: center;
+    margin-top: 50px; 
+      
+}
+#Designer{
+    color: gray;
+}
+
+.jumbotron{
+
+    margin-top: 50px;
+}
+
+#jumbo{
+
+    margin-top: 30px;
+}
+#jumbo1{
+
+    margin-top: 30px;
+}
+#jumbo2{
+
+    margin-top: 30px;
+}
+#para{
+    color:gray;
+
+    
+}
+
+
+.row{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.image1{
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 10px;
+    position: relative;
+    
+}
+.image2{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+
+}
+
+
+.image3{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+
+}
+
+
+.image4{
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 10px;
+    position: relative;
+
+}
+
+.image5{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+
+}
+
+.image6{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+
+}
+
+
+.form-page{
+    margin-left: 200px;
+    margin-right:200px;
+}
+.icon{
+    margin-left: 750px;
+}
+
+
+
+.Web{
+    margin-left:70px;
+}
+.text-right{
+    margin-bottom: 10px;
+}
+
+
+
+.overlay{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: burlywood;
+}
+.image1:hover .overlay {
+    opacity: 1;
+
+}
+
+
+.image2:hover .overlay {
+    opacity: 1;
+}
+
+.image3:hover .overlay {
+    opacity: 1;
+
+}
+.image4:hover .overlay {
+    opacity: 1;
+
+}
+.image5:hover .overlay {
+    opacity: 1;
+}
+
+.image6:hover .overlay {
+    opacity: 1;
+}
+ .text{
+    color: white;
+    font-size: 20px;
+    
+    position: absolute;
+    top: 50%;
+    margin-left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.text1{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    margin-left: 60%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+    
+}
+
+
+  .fa .fa-link{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
